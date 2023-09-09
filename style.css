@@ -339,6 +339,10 @@ footer {
     align-items: center;
     justify-content: center;
 } 
+.foot-panel-3 span {
+    margin: 5px 20px;
+    font-size: 12px;
+}
 
 .foot-panel-4 {
     display: flex;
